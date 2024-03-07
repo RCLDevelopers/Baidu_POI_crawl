@@ -27,4 +27,4 @@ Crawl the POI in the city through Baidu map API.
 ## *Author Name*
 
 <!--Remove the below lines and add yours -->
-[YiZhou Chen](https://github.com/geoyee)
+[YiZhou Chen](https://github.com/geoyee) & Zangtics Dev
